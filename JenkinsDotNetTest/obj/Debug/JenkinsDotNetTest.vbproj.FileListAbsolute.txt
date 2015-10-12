@@ -1,0 +1,8 @@
+c:\users\sarah.morgan\documents\visual studio 2010\Projects\JenkinsDotNetTest\JenkinsDotNetTest\bin\JenkinsDotNetTest.dll
+c:\users\sarah.morgan\documents\visual studio 2010\Projects\JenkinsDotNetTest\JenkinsDotNetTest\bin\JenkinsDotNetTest.pdb
+c:\users\sarah.morgan\documents\visual studio 2010\Projects\JenkinsDotNetTest\JenkinsDotNetTest\bin\JenkinsDotNetTest.xml
+c:\users\sarah.morgan\documents\visual studio 2010\Projects\JenkinsDotNetTest\JenkinsDotNetTest\obj\Debug\JenkinsDotNetTest.Resources.resources
+c:\users\sarah.morgan\documents\visual studio 2010\Projects\JenkinsDotNetTest\JenkinsDotNetTest\obj\Debug\JenkinsDotNetTest.vbproj.GenerateResource.Cache
+c:\users\sarah.morgan\documents\visual studio 2010\Projects\JenkinsDotNetTest\JenkinsDotNetTest\obj\Debug\JenkinsDotNetTest.dll
+c:\users\sarah.morgan\documents\visual studio 2010\Projects\JenkinsDotNetTest\JenkinsDotNetTest\obj\Debug\JenkinsDotNetTest.xml
+c:\users\sarah.morgan\documents\visual studio 2010\Projects\JenkinsDotNetTest\JenkinsDotNetTest\obj\Debug\JenkinsDotNetTest.pdb
